@@ -1,0 +1,3 @@
+Flask
+praw
+flask_cors
